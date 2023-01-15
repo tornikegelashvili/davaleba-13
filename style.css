@@ -1,0 +1,16 @@
+.conteiner{
+    display:flex;
+    justify-content: space-between;
+    
+}
+.conteiner ul{
+    display: flex;
+}
+li{
+    margin-right: 100px;
+    list-style: none;
+}
+.conteiner a{
+    text-decoration: none;
+    color: black;
+}
