@@ -14,3 +14,23 @@ li{
     text-decoration: none;
     color: black;
 }
+.footer{
+    display:grid;
+    grid-template-columns: auto auto ;
+    margin-left: 150px;
+    padding-top: 150px;
+}
+.contact1 ,.contact2,.contact3{
+    padding-top: 50px;
+    margin-left: 150px;
+}
+.facebook,.instagram,.twitter{
+    display: flex;
+    margin-left: 0px;
+}
+.contact3 p{
+    padding-left: 40px;
+}
+.conteiner3{
+    font-size: 20px;
+}
